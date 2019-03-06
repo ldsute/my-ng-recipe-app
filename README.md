@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## How I got started
+Install versions to:
+$ node -v
+v11.10.1
+$ npm -v
+6.9.0
+$ npm install -g @angular/cli
+$ ng new my-ng-recipe-app
+$ ng serve
