@@ -35,3 +35,5 @@ $ npm -v
 $ npm install -g @angular/cli
 $ ng new my-ng-recipe-app
 $ ng serve
+
+Note: run `npm install` in this directory to install dependencies
