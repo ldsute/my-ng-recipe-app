@@ -37,3 +37,5 @@ $ ng new my-ng-recipe-app
 $ ng serve
 
 Note: run `npm install` in this directory to install dependencies
+
+test
